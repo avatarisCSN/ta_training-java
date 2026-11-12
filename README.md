@@ -17,7 +17,7 @@ Linux/macOS:
 ```bash
 mvn test
 ```
-
+CMD:
 
 ```bash
 mvn -Dheadless=true test
